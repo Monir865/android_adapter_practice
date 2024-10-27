@@ -3,4 +3,6 @@
 
     <string name="spinner_title_text">Select an ID Proof</string>
 
+    <string name="contact_layout_image_desc">Lorem description......</string>
+
 </resources>
